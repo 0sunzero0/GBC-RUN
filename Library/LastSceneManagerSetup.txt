@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/scenes/second_day.unity
+  isLoaded: 1
+  isActive: 1
